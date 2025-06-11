@@ -3,7 +3,7 @@
 ## Project Overview
 This project represents my personal journey in developing an advanced fraud detection system for online lending platforms. As someone passionate about machine learning and financial security, I've created this system to leverage deep learning and natural language processing techniques to analyze user behavior patterns and identify potential fraudulent loan applications.
 
-## My Development Proces
+## My Development Process
 
 ### Phase 1: Data Understanding and Preprocessing
 I began my journey by thoroughly analyzing the available data, which included:
