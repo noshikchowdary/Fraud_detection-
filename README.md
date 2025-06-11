@@ -62,5 +62,4 @@ I plan to enhance the system by:
    ```
 3. Follow the notebooks in the numbered directories for step-by-step implementation
 
-## License
-MIT License - Feel free to use this code for your own projects!
+
