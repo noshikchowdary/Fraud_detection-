@@ -55,7 +55,7 @@ I plan to enhance the system by:
 - Custom transformer implementation
 
 ## Getting Started
-1. Clone this repository
+1. Clone this repositor
 2. Install the required dependencies:
    ```bash
    pip install -r requirements.txt
